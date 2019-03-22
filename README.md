@@ -1,2 +1,3 @@
 # hello-world
 Hi there. Getting started
+I haven't done anything programming-wise in a long long long time... let's see if I can get back into it...
